@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Parth!
-- 👀 I’m interested in Web Designing and Software development.
-- 🌱 I’m currently learning Python and Java Script.
 
 
 
